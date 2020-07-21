@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm LavaPower 👋
+
+### About me: 
+I'm a french developer which use Java, Python and more !
+
+You can find me on Discord : LavaPower / Lyos #2480
+
 
 <!--
 **LavaPower/LavaPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
