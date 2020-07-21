@@ -1,6 +1,5 @@
 ### Hi, I'm LavaPower 👋
 
-### About me: 
 I'm a french developer which use Java, Python and more !
 
 You can find me on Discord : LavaPower / Lyos #2480
